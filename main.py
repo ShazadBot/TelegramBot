@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 from google import genai
 
-GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
+GEMINI_API_KEY = "AQ.Ab8RN6J5Of1pOnomDOXeYvqXHrJV0JWnwNYj-sXqZUDEL3bRqQ"
 
 ai = genai.Client(api_key=GEMINI_API_KEY)
 
